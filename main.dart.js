@@ -76153,7 +76153,7 @@ var s=$.dn
 if(s==null)s=$.dn=B.bi
 return new A.Q7(s.xy(null,t.J9))}}
 A.Q7.prototype={
-N(a){var s,r,q=null,p="hindustan unilever limited",o=A.als(0,A.qm("assets/images/background.jpg",B.eV)),n=A.bv(a,q,t.w).w,m=A.cA(A.qm("assets/images/logo.jpeg",B.eV),100,200),l=A.cA(q,50,q),k=A.df("Your Score",q,q,q,A.h3(q,q,B.h0,q,q,q,q,q,q,q,q,50,q,q,B.d4,q,q,!0,q,q,q,q,q,q,q,q),q,q),j=A.cA(q,20,q),i=this.d
+N(a){var s,r,q=null,p="hindustan unilever limited",o=A.als(0,A.qm("assets/images/background.jpg",B.eV)),n=A.bv(a,q,t.w).w,m=A.cA(A.qm("assets/images/logo.jpeg",B.eV),100,200),l=A.cA(q,50,q),k=A.df("Your Team Score",q,q,q,A.h3(q,q,B.h0,q,q,q,q,q,q,q,q,50,q,q,B.d4,q,q,!0,q,q,q,q,q,q,q,q),q,q),j=A.cA(q,20,q),i=this.d
 if(i.cx.a.a.toLowerCase()==="rain"){A.dB("rain")
 s=1}else s=0
 r=i.go
